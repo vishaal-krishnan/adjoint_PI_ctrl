@@ -3,9 +3,9 @@ This project combines the adjoint method with path integral control for the prob
 
 ## Overview
 
-### Navigation on complex landscapes: A paradigm for control of active many-body systems
+### Navigation on complex landscapes: <br /> A paradigm for control of active many-body systems
 
-### Stochastic optimal control: Hamilton-Jacobi-Bellman equation
+### Stochastic optimal control: <br /> Hamilton-Jacobi-Bellman equation
 
 ### Feynman-Kac path integral formulation of stochastic optimal control
 
