@@ -21,7 +21,4 @@ This project combines the adjoint method with path integral control for the prob
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 ![plot](./figures/fig2_adjoint.png)
