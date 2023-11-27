@@ -5,7 +5,7 @@ This project combines the adjoint method with path integral control for the prob
 
 ### Navigation on complex landscapes: <br /> A paradigm for control of active many-body systems
 
-### Adjoint-based path integral control
+### Adjoint-based path integral control: <br /> How it works
 
 &nbsp;
 &nbsp;
