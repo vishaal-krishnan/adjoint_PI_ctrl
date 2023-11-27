@@ -22,4 +22,6 @@ This project combines the adjoint method with path integral control for the prob
 
 &nbsp;
 
+## Examples
+
 ## Citation
