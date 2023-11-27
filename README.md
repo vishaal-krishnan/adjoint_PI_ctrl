@@ -3,6 +3,14 @@ This project combines the adjoint method with path integral control for the prob
 
 ## Overview
 
+### Navigation as a paradigm for control of many-body systems
+
+### Stochastic optimal control: Hamilton-Jacobi-Bellman equation
+
+### Feynman-Kac path integral formulation of stochastic optimal control
+
+### Adjoint-based path integral control
+
 &nbsp;
 &nbsp;
 &nbsp;
