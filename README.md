@@ -1,33 +1,29 @@
-# Adjoint-based path integral control <br /> for active many-body systems
-This project combines the adjoint method with path integral control for the problem of optimal navigation of interacting active particles on complex landscapes.
+# Adjoint-Path-Integral-Ctrl
+Optimal control of interacting active particles on complex landscapes
 
-## Overview
 
-### Navigation on complex landscapes: <br /> A paradigm for control of active many-body systems
 
-### Adjoint-based path integral control: <br /> How it works
+![Simulation Preview](images/snapshot.png)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<img src="./figures/fig2_adjoint.png" width="400" />
 
-&nbsp;
+## 📌 Overview
+This repository contains the **Jupyter Notebook** file used in our paper:
 
-## Examples
+> **"Optimal control of interacting active particles on complex landscapes"**  
+> **Authors:** Sumit Sinha, Vishaal Krishnan, and L. Mahadevan  
+> **Published in:** *arXiv:2311.17039*
+> **DOI:** [https://arxiv.org/abs/2311.17039](https://arxiv.org/abs/2311.17039)  
 
-## Citation
 
-If you found this work useful, please cite: [arxiv](https://arxiv.org/abs/2311.17039) preprint
+
+
+## 📜 Citation
+If you use this code in your research, please cite our paper:
+```bibtex
+@article{sinha2023optimal,
+  title={Optimal control of interacting active particles on complex landscapes},
+  author={Sinha, Sumit and Krishnan, Vishaal and Mahadevan, L},
+  journal={arXiv preprint arXiv:2311.17039},
+  year={2023}
+}
+```
